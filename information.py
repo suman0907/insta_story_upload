@@ -1,0 +1,4 @@
+DB_USER="root"
+DB_PASSWORD="password"
+DB_INSTANCE="127.0.0.1:3306"
+DB_DATABASE= "insta"
